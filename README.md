@@ -19,3 +19,11 @@ Forms HTML:
 
 **Notamos que los nombres de los atributos en el BEAN y los "names" en el forms son exactamente iguales**
 
+![image](https://github.com/SergioABS-GTICS/clase-2-2/assets/154263057/d06045db-cea5-4a79-9b27-c10dc4f33187)
+
+En vez de recibir parámetro por parámetro, recibimos colocando como atributo del método la clase:
+
+![image](https://github.com/SergioABS-GTICS/clase-2-2/assets/154263057/96884fa3-1e63-427a-b937-dc32670ebaab)
+
+![image](https://github.com/SergioABS-GTICS/clase-2-2/assets/154263057/728ebd51-b59c-4916-9e05-2ba2b024522b)
+
